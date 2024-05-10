@@ -25,7 +25,7 @@ I've been learing for code for more than 2 years. I started with Core Java as a 
                   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
             </picture>
       </a>
-      <a href="http://www.instagram.com/bredlin_jose" target="_blank" rel="noreferrer">
+      <a href="https://www.instagram.com/bredlin_jose" target="_blank" rel="noreferrer">
             <picture>
                   <source media="(prefers-color-scheme: dark)" srcset="undefined" />
                   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
