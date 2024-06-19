@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Selenium, Appium & Rest Assured.
 
-- 🌱 I’m currently learning Advance Java, Python, Docker, Jenkins & so on.
+- 🌱 I’m currently learning advanced Java, Python, Docker, Jenkins & so on.
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Appium, Automation Frameworks**
 
@@ -52,6 +52,6 @@
 [<img height="25" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-256.png" alt="Docker">](https://www.docker.com/)&nbsp;
 
 ## GitHub Activities
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=bredlinjose&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bredlinjose&theme=dark&border_radius=20&show_icons=true" alt="bredlinjose | Stats" />
+<img align="left" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=bredlinjose&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=bredlinjose&theme=dark&border_radius=20&show_icons=true" alt="bredlinjose | Stats" />
 
