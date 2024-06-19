@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="23px" alt="hi"> I am Bredlin Jose
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px" alt="hi"> I am Bredlin Jose
 ### QA Automation Engineer / SDET
 <p align="left">
   <a href="https://instagram.com/bredlin_jose" target="_blank">
