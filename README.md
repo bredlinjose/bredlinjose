@@ -1,59 +1,57 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bredlin
-===============================================================================================================================
-
-QA Automation Engineer
-----------------------
-
-I've been learing for code for more than 2 years. I started with Core Java as a programming language, Selenium as a Web Automation tool, Appium as a Mobile Automation tool and Rest Assured for Web Service Automation.Currently I'm learning DevOps concepts to upgrade my skills.
-
-*   🌍  I'm based in India
-*   ✉️  You can contact me at [bredlinjose@gmail.com](mailto:bredlinjose@gmail.com)
-*   🧠  I'm learning DevOps
-*   🤝  I'm open to collaborating on testing interesting and complex project on Web, Mobile and API
-  
-### Skills 
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="23px" alt="hi"> I am Bredlin Jose
+### QA Automation Engineer / SDET
 <p align="left">
-      <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <a href="https://instagram.com/bredlin_jose" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/bredlin_jose?logo=instagram" alt="bredlin instagram" />
+  </a>
 </p>
-                    
-### Socials
-<p align="left">
-      <a href="https://www.github.com/bredlinjose" target="_blank" rel="noreferrer">
-            <picture>
-                  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-            </picture>
-      </a>
-      <a href="https://www.instagram.com/bredlin_jose" target="_blank" rel="noreferrer">
-            <picture>
-                  <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-                  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-                  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-            </picture>
-       </a>
-      <a href="https://www.linkedin.com/in/bredlinjose" target="_blank" rel="noreferrer">
-                  <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                  </picture>
-             </a>
-             <a href="https://www.x.com/bredlin_jose" target="_blank" rel="noreferrer">
-                  <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-                  </picture>
-            </a>
-             <a href="https://www.threads.net/@bredlin_jose" target="_blank" rel="noreferrer">
-                  <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
-                  </picture>
-            </a></p>
 
-### Badges<b>My GitHub Stats</b>
-<a href="http://www.github.com/bredlinjose"><img src="https://github-readme-stats.vercel.app/api?username=bredlinjose&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bredlinjose's GitHub stats" /></a>
-<a href="http://www.github.com/bredlinjose"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bredlinjose&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+*****
+
+- 🔭 I’m currently working on Selenium, Appium & Rest Assured.
+
+- 🌱 I’m currently learning Advance Java, Python, Docker, Jenkins & so on.
+
+- 👯 I’m looking to collaborate on **API Testing, Selenium, Appium, Automation Frameworks**
+
+- 👨‍💻 All of my projects are available at [https://github.com/bredlinjose](https://github.com/bredlinjose)
+
+- 💬 Ask me about **Selenium, SDET, Java, Postman, Rest Assured, Appium**.
+
+- 📫 How to reach me **bredlinjose@gmail.com**
+
+- 📄 Know about my experiences [http://linkedin.com/in/bredlinjose](http://linkedin.com/in/bredlinjose)
+
+****
+
+## 📫 Get in Touch
+[<img height="29" width="33" src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" alt="Gmail">](mailto:bredlinjose@gmail.com) &nbsp;
+[<img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn">](https://www.linkedin.com/in/bredlinjose/) &nbsp;
+[<img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" alt="WhatsApp">](https://wa.me/+918526003286/) &nbsp;
+[<img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Instagram">](https://www.instagram.com/bredlin_jose/) &nbsp;
+[<img height="30" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" alt="Facebook">](https://www.facebook.com/bredlin.jose.5/) &nbsp;
+[<img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="Twitter">](https://twitter.com/bredlin_jose/) &nbsp;
+
+## 👩‍💻 Tech Skills
+### Programming Languages
+[<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java">](https://www.oracle.com/in/java/)&nbsp;
+[<img height="25" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python">](https://www.python.org/)&nbsp;
+
+### Testing Frameworks and Tools
+[<img height="25" src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium">](https://www.selenium.dev/)&nbsp;
+[<img height="25" src="https://static-00.iconduck.com/assets.00/appium-icon-2044x2048-8eq3vjix.png" alt="Appium">](https://appium.io/docs/en/latest/)&nbsp;
+[<img height="25" src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/cucumber-logo-png-transparent.png?ssl=1" alt="Cucumber">](https://cucumber.io/)&nbsp;
+[<img height="25" src="https://rest-assured.io/img/logo-transparent.png" alt="Rest Assured">](https://rest-assured.io/)&nbsp;
+[<img height="25" src="https://playwright.dev/java/img/playwright-logo.svg" alt="Playwright">](https://playwright.dev/java/)&nbsp;
+[<img height="25" src="https://blog.postman.com/wp-content/uploads/2018/04/logo-mark-300x300.png" alt="Postman">](https://www.postman.com/)&nbsp;
+
+### DevOps Tools
+[<img height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git">](https://git-scm.com/)&nbsp;
+[<img height="25" src="https://cdn.iconscout.com/icon/free/png-512/free-github-163-761603.png" alt="GitHub">](https://github.com/)&nbsp;
+[<img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins">](https://www.jenkins.io/)&nbsp;
+[<img height="25" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-256.png" alt="Docker">](https://www.docker.com/)&nbsp;
+
+## GitHub Activities
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=bredlinjose&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bredlinjose&theme=dark&border_radius=20&show_icons=true" alt="bredlinjose | Stats" />
+
