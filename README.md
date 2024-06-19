@@ -52,6 +52,6 @@
 [<img height="25" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-256.png" alt="Docker">](https://www.docker.com/)&nbsp;
 
 ## GitHub Activities
-<img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=bredlinjose&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=202" alt="GitHub Streak" />
+<img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=bredlinjose&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=203" alt="GitHub Streak" />
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=bredlinjose&theme=dark&border_radius=20&show_icons=true&card_height=100" alt="bredlinjose | Stats" />
 
