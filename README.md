@@ -8,11 +8,11 @@
 
 *****
 
-- 🔭 I’m currently working on Selenium, Appium & Rest Assured.
+- 🔭 I’m currently working on **Selenium, Appium & Rest Assured.**
 
-- 🌱 I’m currently learning advanced Java, Python, Docker, Jenkins & so on.
+- 🌱 I’m currently learning advanced **Java, Python, Docker, Jenkins & so on.**
 
-- 👯 I’m looking to collaborate on **API Testing, Selenium, Appium, Automation Frameworks**
+- 👯 I’m looking to collaborate on **API Testing, Selenium, Appium, Automation Frameworks.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bredlinjose](https://github.com/bredlinjose)
 
