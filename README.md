@@ -39,7 +39,7 @@
 
 ### Testing Frameworks and Tools
 [<img height="25" src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium">](https://www.selenium.dev/)&nbsp;
-[<img height="25" src="https://static-00.iconduck.com/assets.00/appium-icon-2044x2048-8eq3vjix.png" alt="Appium">](https://appium.io/docs/en/latest/)&nbsp;
+[<img height="25" src="https://iconape.com/wp-content/files/ji/370554/svg/370554.svg" alt="Appium">](https://appium.io/docs/en/latest/)&nbsp;
 [<img height="25" src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/cucumber-logo-png-transparent.png?ssl=1" alt="Cucumber">](https://cucumber.io/)&nbsp;
 [<img height="25" src="https://rest-assured.io/img/logo-transparent.png" alt="Rest Assured">](https://rest-assured.io/)&nbsp;
 [<img height="25" src="https://playwright.dev/java/img/playwright-logo.svg" alt="Playwright">](https://playwright.dev/java/)&nbsp;
