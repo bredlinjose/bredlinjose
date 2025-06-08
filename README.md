@@ -1,5 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px" alt="hi"> I am Bredlin Jose
-### QA Automation Engineer / SDET
+### ISTQB Certified / QA Automation Engineer / SDET
 <p align="left">
   <a href="https://instagram.com/bredlin_jose" target="_blank">
     <img src="https://img.shields.io/twitter/follow/bredlin_jose?logo=instagram" alt="bredlin instagram" />
