@@ -43,7 +43,7 @@
 [<img height="25" src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/cucumber-logo-png-transparent.png?ssl=1" alt="Cucumber">](https://cucumber.io/)&nbsp;
 [<img height="25" src="https://rest-assured.io/img/logo-transparent.png" alt="Rest Assured">](https://rest-assured.io/)&nbsp;
 [<img height="25" src="https://playwright.dev/java/img/playwright-logo.svg" alt="Playwright">](https://playwright.dev/java/)&nbsp;
-[<img height="25" src="https://blog.postman.com/wp-content/uploads/2018/04/logo-mark-300x300.png" alt="Postman">](https://www.postman.com/)&nbsp;
+[<img height="25" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman">](https://www.postman.com/)&nbsp;
 
 ### DevOps Tools
 [<img height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git">](https://git-scm.com/)&nbsp;
