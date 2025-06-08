@@ -8,15 +8,15 @@
 
 *****
 
-- 🔭 I’m currently working on **Selenium, Appium & Rest Assured.**
+- 🔭 I’m currently working on **Selenium, Playwright, Appium & Rest Assured.**
 
 - 🌱 I’m currently learning advanced **Java, Python, Docker, Jenkins & so on.**
 
-- 👯 I’m looking to collaborate on **API Testing, Selenium, Appium, Automation Frameworks.**
+- 👯 I’m looking to collaborate on **API Testing, Selenium, Playwright, Appium, Automation Frameworks.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bredlinjose](https://github.com/bredlinjose)
 
-- 💬 Ask me about **Selenium, SDET, Java, Postman, Rest Assured, Appium**.
+- 💬 Ask me about **Selenium, SDET, Java, Python, Playwright, Postman, Rest Assured, Appium, BDD**.
 
 - 📫 How to reach me **bredlinjose@gmail.com**
 
