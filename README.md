@@ -36,6 +36,7 @@
 ### Programming Languages
 [<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java">](https://www.oracle.com/in/java/)&nbsp;
 [<img height="25" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python">](https://www.python.org/)&nbsp;
+[<img height="25" src="https://learn.microsoft.com/en-us/dotnet/media/logo_csharp.png" alt="C#">](https://learn.microsoft.com/en-us/dotnet/csharp/)&nbsp;
 
 ### Testing Frameworks and Tools
 [<img height="25" src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium">](https://www.selenium.dev/)&nbsp;
